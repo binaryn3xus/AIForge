@@ -1,4 +1,4 @@
-# AI.SQLVector
+# AI Forge
 
 This project is a C# console application demonstrating a complete Retrieval-Augmented Generation (RAG) pipeline. It uses SQL Server 2025 as a vector database and a locally hosted Ollama instance for AI embeddings and text generation.
 
