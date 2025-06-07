@@ -1,0 +1,57 @@
+# AIForge .gitignore
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache files
+.vs/
+.vscode/
+# End of Visual Studio cache files
+
+## Rider files
+.idea/
+*.sln.iml
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.[Tt]est[Rr]esults
+[Aa]nalysis[Rr]esult*.xml
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Other
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
+Thumbs.db
+*.bak
+
+# Sensitive information - Never commit user secrets!
+secrets.json
+
